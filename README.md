@@ -20,4 +20,4 @@
 
 - ![image](https://github.com/user-attachments/assets/d5fbddc7-502e-406e-85a7-298f6dc2001f)
 
-- ![image](https://github.com/user-attachments/assets/7eb8a52d-fe53-4e35-b6b4-65139c173070)
+- ![image](https://github.com/user-attachments/assets/24989e09-886e-4043-ab0a-730a312f2685)

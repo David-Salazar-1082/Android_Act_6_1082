@@ -19,7 +19,7 @@ class _Widget020State extends State<PantallaOnce> {
         backgroundColor: Colors.blue, // Fondo azul
         title: const Center(
           child: Text(
-            'Pantalla 3', // Título de la pantalla
+            'Pantalla 11', // Título de la pantalla
             style: TextStyle(
               color: Colors.white, // Letra blanca
               fontSize: 20.0, // Tamaño de la letra 20
